@@ -1,2 +1,2 @@
 # prune
-A tree based copy-pasting manager.
+A tree based undo-redo manager.
